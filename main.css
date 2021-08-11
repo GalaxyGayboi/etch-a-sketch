@@ -1,0 +1,14 @@
+
+
+#center {
+    display: grid;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+div {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
